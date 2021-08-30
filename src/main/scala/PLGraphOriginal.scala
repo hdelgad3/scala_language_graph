@@ -7,7 +7,7 @@ import scala.collection.mutable.ArrayBuffer
 /*
  * CS3210 - Principles of Programming Languages - Fall 2021
  * Instructor: Thyago Mota
- * Student:
+ * Student:     Hector Delgado
  * Description: Homework 01 - PLGraph
  */
 
